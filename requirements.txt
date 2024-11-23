@@ -1,0 +1,6 @@
+streamlit==1.26.0
+opencv-python==4.8.1.78
+ultralytics==8.0.147
+Pillow==9.3.0
+numpy==1.25.2
+pytesseract
